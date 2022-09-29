@@ -74,7 +74,9 @@ par(mar = c(3, 17, 2, 2))
 plot(TukeyHSD(model1),las=2)
 ```
 
+Since High School and Lt High School do not pass 0, that means there is no difference.
+
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-There was no relationship.
+There was no relationship. Based on the evidence in the Grphical results and the Inferential results, there is a significant difference in average score on the WORDSUM test between at least two levels of EDUC therefore the hypothesis is null
